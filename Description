@@ -3,7 +3,7 @@ Title: Finds the last side of a triangle.
 Version: 0.1
 Authors:Cesar Moy [aut]
 maintainer: cmoy@usf.edu [cre]
-Description: The package takes to side values of a triangle and uses the petagoram theorem to find the final angle. It helps to quickly
+Description: The package takes to side values of a triangle and uses the pythagoras theorem to find the final angle. It helps to quickly
 do a mathematical operation that would require a formula. This package allows us just to simple imput to variable and the package will do the math.
 Depends: R (>= 3.1.2)
 License: It is under COO
